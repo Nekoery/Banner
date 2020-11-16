@@ -20,6 +20,7 @@ import android.widget.LinearLayout;
 import java.util.Timer;
 import java.util.TimerTask;
 
+//第二次提交
 public class MainActivity extends AppCompatActivity{
     AdapterViewFlipper flipper;
     LinearLayout main;
